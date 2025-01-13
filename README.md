@@ -1,22 +1,21 @@
-# Домашнее задание к занятию "Резервное копирование" - `Динейко Алексей`
+# Домашнее задание к занятию "Отказоустойчивость в облаке" - `Динейко Алексей`
 
 
 ---
 
 ### Задание 1
 
-`Cкриншот с командой и результатом ее выполнения`
+` 1. Terraform Playbook.`
 
-![Скриншот-1](https://github.com/Neoju5t/recovery/blob/cdd6300d46a53faa26b5464cb0d417b9f5572050/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-17%20%D0%B2%2001.06.21.png)
+` 2. Скриншот статуса балансировщика и целевой группы.`
 
----
+` 3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика. `
 
-### Задание 2
+[Файл terraform paybook](https://github.com/Neoju5t/cloud/blob/78abaa299267f672d119c30d2ee8a34a215dd80d/img/main.tf)
 
-`Скриншот с результатом работы утилиты и файл crontab`
+![Скриншот-1](https://github.com/Neoju5t/cloud/blob/78abaa299267f672d119c30d2ee8a34a215dd80d/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2022.09.55.png `Скриншот балансировщика`)
 
-![Скриншот-2](https://github.com/Neoju5t/recovery/blob/cdd6300d46a53faa26b5464cb0d417b9f5572050/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-17%20%D0%B2%2001.44.06.png)
+![Скриншот-2](https://github.com/Neoju5t/cloud/blob/78abaa299267f672d119c30d2ee8a34a215dd80d/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-13%20%D0%B2%2022.15.00.png `Скриншот страницы`)
 
-[Файл crontab](https://github.com/Neoju5t/recovery/blob/cdd6300d46a53faa26b5464cb0d417b9f5572050/img/backup.sh)
 
 ---
