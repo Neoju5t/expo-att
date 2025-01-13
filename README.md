@@ -1,24 +1,22 @@
-# Домашнее задание к занятию "«Кластеризация и балансировка нагрузки»" - `Динейко Алексей`
+# Домашнее задание к занятию "Резервное копирование" - `Динейко Алексей`
 
 
 ---
 
 ### Задание 1
 
-`Cкриншот, где видно перенаправление запросов на разные серверы при обращении к HAProxy`
+`Cкриншот с командой и результатом ее выполнения`
 
-![Скриншот-1](https://github.com/Neoju5t/klaster_and_balans/blob/de037294ccaafc299ae3e62fa53528a4dfd9e7f5/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-17%20%D0%B2%2000.11.47.png)
-
-[Файл конфигурации](https://github.com/Neoju5t/klaster_and_balans/blob/1d186402a0a7b54816da0288da363dfb5f5175b3/img/haproxy.cfg)
+![Скриншот-1](https://github.com/Neoju5t/recovery/blob/cdd6300d46a53faa26b5464cb0d417b9f5572050/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-17%20%D0%B2%2001.06.21.png)
 
 ---
 
 ### Задание 2
 
-`Скриншот где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local`
+`Скриншот с результатом работы утилиты и файл crontab`
 
-![Скриншот-1](https://github.com/Neoju5t/klaster_and_balans/blob/dbd3c0a6ab76bf5422820a131c73259c6b8d55b2/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-17%20%D0%B2%2000.36.30.png)
+![Скриншот-2](https://github.com/Neoju5t/recovery/blob/cdd6300d46a53faa26b5464cb0d417b9f5572050/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-17%20%D0%B2%2001.44.06.png)
 
-[Обновленный файл конфигурации](https://github.com/Neoju5t/klaster_and_balans/blob/dbd3c0a6ab76bf5422820a131c73259c6b8d55b2/img/haproxy2.0.cfg)
+[Файл crontab](https://github.com/Neoju5t/recovery/blob/cdd6300d46a53faa26b5464cb0d417b9f5572050/img/backup.sh)
 
 ---
